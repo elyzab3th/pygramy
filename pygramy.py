@@ -14,7 +14,7 @@
 #	- Comentary improvement
 #	- Launched the BETA
 #
-##########################################################################									 #
+##########################################################################
 #									 #
 #           It can be cruel, poetic or blind. But when its		 #
 # 		  denied is the violence you may find.			 #
@@ -165,8 +165,6 @@ def joined_recently():
 
 	user = InstagramUser(username, sessionid=session_id)
 	return (f"JOINED RECENTLY: {user.is_joined_recently}")
-
-
 
 def number_of_posts():
 
