@@ -28,7 +28,7 @@
 import argparse
 from instagramy import *
 from os import system as exe
-
+# TODO: import colorama
 
 
 exe("clear")
@@ -39,7 +39,7 @@ argumento = argparse.ArgumentParser(usage="python3 pygram.py -a [USER] [PATTERNS
 #    Arguments   #
 ##################
 
-
+# TODO: Add an argument which colorates the program | Avaible soon on next version
 argumento.add_argument("-u", "--user-account", type=str, help="Set the user to scrap", required=True)
 argumento.add_argument("--followers", help="Check the number of followers", action="store_true")
 argumento.add_argument("--biography", help="See biography user", action="store_true")
