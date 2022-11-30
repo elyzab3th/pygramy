@@ -47,6 +47,27 @@ options:
 
 <a href="https://asciinema.org/a/VeWodQLcmMWj9N9hvfrXtdoUE" target="_blank"><img src="https://asciinema.org/a/VeWodQLcmMWj9N9hvfrXtdoUE.svg" /></a>
 
-# Executable for windows - Binary
+# Generating a Binary - Useful for Windows O.S
 
-## Installation
+To use a binary file of the program actually there are 2 ways for it;
+
+- Using from the repository
+
+There is a binary on the repository and would be good a check on file.
+
+- Generating yout own binary executable
+
+If you'd like to generate your own binary then follow the next steps on your terminal:
+
+## Sintax
+```bash
+
+pyinstaller --onefile [Name of the program to encode to a binary]
+```
+
+## Use the command bellow for generate your own binary:
+
+```bash
+
+pyinstaller --onefile pygramy.py
+```
