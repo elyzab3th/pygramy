@@ -1,5 +1,5 @@
 <img src="/src/img/pygramy.png">
-A tool for OSINT purposes made using python language where is for Instagram Scrapy without login required.
+A basic tool for OSINT purposes made using python language where is for Instagram Scrapy without login required.
 
 
 
