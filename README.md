@@ -47,7 +47,7 @@ options:
 
 <a href="https://asciinema.org/a/VeWodQLcmMWj9N9hvfrXtdoUE" target="_blank"><img src="https://asciinema.org/a/VeWodQLcmMWj9N9hvfrXtdoUE.svg" /></a>
 
-# Generating a Binary - Useful for Windows O.S
+# Generating a Binary - Useful for Windows O.S <img src="/src/img/binary-logo.svg" width="500" height="600" >
 
 To use a binary file of the program actually there are 2 ways for it;
 
