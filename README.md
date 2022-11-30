@@ -68,5 +68,5 @@ pyinstaller --onefile [Name of the program to encode to a binary]
 ## Use the command bellow for generate your own binary:
 
 ```bash
-pip installpyinstaller && pyinstaller --onefile pygramy.py
+pip installpy installer && pyinstaller --onefile pygramy.py
 ```
