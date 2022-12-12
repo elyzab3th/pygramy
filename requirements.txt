@@ -1,4 +1,4 @@
 
-arparse
+argparse
 instagramy
 colorama
