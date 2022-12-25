@@ -6,7 +6,7 @@ A basic tool for OSINT purposes made using python language where is for Instagra
 # Installation
 
 ```bash
-clear && git clone https://github.com/Leandro-Leone/pygramy && cd pygram && python3 -m pip install -r requirements.txt
+clear && git clone https://github.com/Leandro-Leone/pygramy && cd pygramy && python3 -m pip install -r requirements.txt
 
 ```
 
